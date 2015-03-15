@@ -239,6 +239,7 @@ h2,h3,h4 { margin: 10px 0px 5px 0px; }
 .nopadding { padding: 0; }
 .nounderline { text-decoration: underline; }
 .clears:after { clear: both; }
+.img-tengah{display: block; margin-left: auto; margin-right: auto;}
 
 /*** Structure ***/
 
