@@ -3,9 +3,8 @@ layout: default
 title: About Me
 ---
 
-Hi there !   
-I am Avi Aryan currently pursuing B.Tech in Information Technology in [IIIT Vadodara, India](http://www.iiitvadodara.ac.in/).  
-My current passions are coding, web-designing and counter strike.  
+Hi dev and coders !   
+I am creatorb, this my personal website.
 
 You can find me on -  
 
@@ -14,4 +13,4 @@ You can find me on -
 * [Facebook](http://facebook.com/{{ site.author.facebook }})
 * [Google+](http://google.com/+{{ site.author.google }})
 
-You can telegram me at [aviaryan](http://telegram.me/aviaryan)
+You can telegram me at [creatorbe](http://telegram.me/creatorbe)
