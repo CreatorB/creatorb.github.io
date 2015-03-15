@@ -298,10 +298,10 @@ div.post-content { font-size: 16px; }
 #sidebar {
 	top: 0;
 	bottom: 0;
-	left: 0;
+	right: 0;
  	position: fixed;
-	text-align: left;
-	width: 220px;
+	text-align: right;
+	width: 185px;
 	background: black;
 	float: left;
 }
