@@ -1,10 +1,9 @@
-My Site
+creatorb profiles
 ====
 
 Built with Jekyll.  
-Visit [http://aviaryan.in](http://aviaryan.in)
+Visit [http://creatorb.github.io](http://creatorb.github.io)
   
-### To-Do
+### Notes
 
-* A visual representation for "Categories"
-* ~~GitHub and Feed button~~
+Thanks my friend's Avi aryan, for best references.
