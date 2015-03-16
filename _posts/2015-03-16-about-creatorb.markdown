@@ -12,18 +12,18 @@ i hope we can be good friend's, Sometimes somepeople visited this post for check
 
 ###Detail's Me
 
-Real Name	: Hasan Basri
-Code Name	: CreatorB
-Gender		: Male
-Hobby		: Everything's about Computer
-Dream		: Being a good Moslem and someone useful
-Education	: Pondokprogrammer
-Organization	: Jasaprogrammer
-Title		: Developer
-Hometown	: Situbondo, east java
-City		: Yogyakarta
-Country 	: Indonesia
-Email		: creatorb45@gmail.com
+* Real Name	: Hasan Basri
+* Code Name	: CreatorB
+* Gender	: Male
+* Hobby		: Everything's about Computer
+* Dream		: Being a good Moslem and someone useful
+* Education	: Pondokprogrammer
+* Organization	: Jasaprogrammer
+* Title		: Developer
+* Hometown	: Situbondo, east java
+* City		: Yogyakarta
+* Country 	: Indonesia
+* Email		: creatorb45@gmail.com
 
 ###Recent Authored
 
