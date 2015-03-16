@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>Possibilities With Target Pseudo Element</title>
+    <meta name="title" content="Possibilities With Target Pseudo Element">
+    <meta name="description" content="A look at how powerful css' pseudo element target can be and how it can help you go js-less for littile user interactions like popping up a lightbox, show/hide nav bar etc.">
+    <meta name="author" content="Abhishek Sachan">
+    <meta name="copyright" content="AbhishekSachan" />
+    <meta http-equiv="Reply-to" content="contact@abhisheksachan.in" />
+    <meta name="theme-color" content="#568156">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="icon" type="image/ico" href="/img/icon.ico">
+    <link rel="stylesheet" type="text/css" href="/css/font-awesome-min.css">
+    <link rel="stylesheet" type="text/css" href="/css/icomoon/style.css">
+    <link rel="canonical" href="/2015/01/26/possibilities-with-css-target-element/">
+    <script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/travelog.js"></script>
+    <script type="text/javascript" src="/js/search.js"></script>
+    <script type="text/javascript">
+$(document).ready(function(){
+$(".btn").click(function(){
+$(".overlay").css({"visibility":"visible","opacity": "0.3"}, "slow");
+$("#nav").animate({right:'0', opacity:'1'}, "slow");
+});
+$(".close").click(function(){
+    $("#nav").animate({right:'-1366px'}, "fast");
+    $(".overlay").css({"visibility":"hidden","opacity": "0"}, "slow");
+});
+});
+    </script>
+
+    <script type="text/javascript">
+    $(document).ready(function() {
+		//create variable for top offset of nav
+		var sticky_navigation_offset_top = $(".site-header").offset().top;
+
+		//function to decide if the nav should have fixed position
+		var sticky_navigation = function() {
+			//current vertical position from the top
+			var scroll_top = $(window).scrollTop();
+
+			//if scroll is more than the nav then position changed to fixed
+			//otherwise change it to relative
+			if (scroll_top > sticky_navigation_offset_top) {
+				$(".site-header").css({"position":"fixed","top":"-80px"});
+			} else {
+				$(".site-header").css({"position":"relative","top":"0"});
+			}
+		};
+
+		//run function on load
+		sticky_navigation();
+
+		//run every time page is scrolled
+		$(window).scroll(function() {
+			sticky_navigation();
+		});
+});
+    </script>
+</head>
+
+
+  <body>
+
+  <div class="overlay"></div>
+  
+  <nav id="nav">
+<a href=""><img src="/img/main.jpg"></a>
+  <ul>
+    <li><a href="/about"></i>ABOUT</a></li>
+    <li><a href="/portfolio"></i>PORTFOLIO</a></li>
+    <li><a href="#search"></i>SEARCH</a></li>
+    <li><a class="close" href="#">CLOSE</a></li>
+  </ul>
+  <div class="social-icons">
+  <a href="http://twitter.com/creatorbe"><span class="icon-twitter"></span></a>
+  <a href="http://github.com/CreatorB"><span class="icon-github"></span></a>
+  <a href="http://codepen.io/abhisack"><span class="icon-codepen"></span></a>
+  <a href="http://stackoverflow.com/abhisack"><span class="icon-stackoverflow"></span></a>
+  </div>
+</nav>
+
+  <div id="search" class="search-block">
+<a class="close" href="#">CLOSE</a>
+<form id="search-input">
+    <input type="search" id="query" name="query" placeholder="Type to search"/>
+    
+  </form>
+
+
+  <div id="results">
+  </div>
+</div>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/">
+    <h2 class="logo">
+      <span>A</span>
+      <span>B</span>
+      <span>H</span>
+      <span>I</span>
+    </h2>
+  </a>
+
+    
+    <div class="right">
+<a class="btn" href="#"><span class="icon-menu"></span></a>
+</div>
+
+      
+  </div>
+
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Possibilities With Target Pseudo Element</h1>
+    <p class="post-meta">Jan 26, 2015</p>
+  </header>
+
+  <article class="post-content">
+    <p>Target pseudo <a href="http://dev.w3.org/csswg/selectors-4/#the-target-pseudo">element</a> isn’t just what it sounds like. You’d be amazed to get to know it’s powers and what It can do. I’ve recently been hanging around codepen building some stuff with this super hacky element and it made my week. Actually my passion for hacking with target element grew after <a href="https://twitter.com/SaraSoueidan">Sara</a> wrote an article <a href="http://blogs.adobe.com/dreamweaver/2015/01/using-the-css-target-selector-to-create-javascript-less-ui-effects.html">here</a>.</p>
+
+<h3 id="theory">Theory</h3>
+
+<p>Target enables you go js-less to lessen burden on your webpages for good performence. With it basic user interactions can be created very easily.
+I’m taking two theories here to explain how target element can be useful.</p>
+
+<ol>
+  <li>
+    <p><span class="highlight">The goal is to have two apperences of a same element, first it’s default apperence that’s visible after the page loads and the other when the element is targeted(kinda awakened)</span></p>
+  </li>
+  <li>
+    <p><span class="highlight"> Traget is smart at awekening a sleeping element</span></p>
+  </li>
+</ol>
+
+<p>These theories might have explained you a lot of what I’m trying to tell you. But you might question, how to target any element? It’s simple. Give that element an unique ID and then call or aweken this ID through any anchor element.
+Suppose if we have a div with ID #nav having following CSS-</p>
+
+<pre>
+<code class="language-css">
+
+#nav {
+opacity: 0;
+display: none;
+}
+</code>
+</pre>
+
+<p>We target the element from outside using a link like following:</p>
+
+<pre>
+<code class="language-markup">
+
+&lt;a href="#nav"&gt;MENU&lt;/a&gt;
+</code>
+</pre>
+
+<p>So when you click the link above it awekens the element and sets to it the properties that look like following in your CSS.</p>
+
+<pre class="line-numbers">
+<code class="line-numbers language-css">
+
+#nav:target {
+opacity: 1;
+display: block;
+}
+</code>
+</pre>
+
+<p>So what we did here? A div with ID #nav had opacity set to 0 and display set to none which means object was invisible. Later we targeted this element clicking the link located somewhere in the page and set new values to it’s properties using :target element. To conclude, we faded in a hidden element.</p>
+
+<p>The same you could have done with following JS too-</p>
+
+<pre>
+<code class="language-javascript">
+
+$("a").click(function){
+$("#nav").animate({"opacity":"1","background-color": "#333"});
+});
+</code>
+</pre>
+
+<p>But why to increase burden on your webpage until you can do the same with just pure CSS. Yeah, CSS is of course lighter than the JS in terms of performence. Also does it affect the webpages to be faster than they could be using bunch of JS. In other words, lesser the JS, faster is the webpage’s speed.</p>
+
+<h3 id="so-what-are-the-possibilities">So What Are the Possibilities?</h3>
+<p>There’re many awesome things you can create using target element, especially show/hide things. Like-</p>
+
+<h3 id="popup-blocks">Popup Blocks</h3>
+<p>Yeah! you don’t need to burden your webpages with jquery’s animations and fadeIns/fadeOuts to pop up a block when user clicks any icon/button on your site. Stick to pure CSS for the same.
+Here’s a search popup’s demo I created being inspired by Sara Soueidan’s article.</p>
+
+<p data-height="268" data-theme-id="0" data-slug-hash="KwqNbv" data-default-tab="result" data-user="abhisack" class="codepen">See the Pen <a href="http://codepen.io/abhisack/pen/KwqNbv/">CSS-Only Search Toggle with Target element</a> by Abhishek Sachan (<a href="http://codepen.io/abhisack">@abhisack</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async="" src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+<p>The same way you can create the lightboxes too.</p>
+
+<h3 id="awesome-search-blocks">Awesome Search Blocks</h3>
+<p>Target element can be super useful in creating awesome ux search inputs like the one I created below-</p>
+
+<p data-height="268" data-theme-id="0" data-slug-hash="MYoELr" data-default-tab="result" data-user="abhisack" class="codepen">See the Pen <a href="http://codepen.io/abhisack/pen/MYoELr/">CSS-Only Search Toggle with Target element</a> by Abhishek Sachan (<a href="http://codepen.io/abhisack">@abhisack</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async="" src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+<p>In these two demos the theories listed at the beginning of the post are applied. Note how we come out of the targeted element (clicking close buttons) by putting a second anchor element linking to ‘#’ which is technically the url of your current page.</p>
+
+<p>And a lots more you can imagine.</p>
+
+<h3 id="going-further">Going Further</h3>
+<p>If you want to explore more about awesome things you can do with target pseudo element and escape needless JS, I recommend you reading “Animate the scroll with only CSS” section of <a href="http://css-tricks.com/tour-performant-responsive-css-site/">this post</a> by Rajoshi Ghosh and <a href="http://codepen.io/tanmaig">Tanmai Gopal</a>. Also don’t miss Sara’s <a href="http://blogs.adobe.com/dreamweaver/2015/01/using-the-css-target-selector-to-create-javascript-less-ui-effects.html">article</a> if you haven’t read it already. Plus, I made a collection of demos featuring such techniques to create awesome UX effects. <a href="http://codepen.io/collection/ABNaPw">Check it out</a>.
+Created something awesome with target? Yes? Awesome!! I’m waiting for your demo.</p>
+
+
+  </article>
+
+</div>
+
+      </div>
+      
+ <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'githube'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    
+    
+    </div>
+
+
+    <script type="text/javascript" src="/js/prism.js"></script>
+
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <p>© Abhishek Sachan 2015 <br/>Built on <a href="http://jekyllrb.com">Jekyll</a></p>
+
+  </div>
+
+</footer>
+
+
+
+    <script type="text/javascript">
+      SimpleJekyllSearch.init({
+        searchInput: document.getElementById('query'),
+        resultsContainer: document.getElementById('results'),
+        dataSource: '/search.json',
+        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+        noResultsText: '<h2>Sorry Buddy!</h2>',
+        limit: 10,
+        fuzzy: false,
+      })
+    </script>
+
+
+  </body>
+
+</html>
