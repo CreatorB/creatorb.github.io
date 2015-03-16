@@ -35,8 +35,8 @@ I like typing and sharing everything about computer tutorial's, but i'm sorry i 
 
 ###Recent Book's
 
-* Slideshare	: [creatorb](www.slideshare.net/creatorb)
-* Scribd	: [creatorb](https://www.scribd.com/creatorb)
+* Slideshare	: [creatorb](http://www.slideshare.net/creatorb)
+* Scribd	: [creatorb](http://www.scribd.com/creatorb)
 
 ###Recent Web's
 
