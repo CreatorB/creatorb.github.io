@@ -7,7 +7,6 @@ description: "Hi developer and coder, Wherever you are. I want to open less my m
 ---
 
 ###Gretings
-
 Hi dev and coders, greetings from me and welcome to my small repo's.
 i hope we can be good friend's, Sometimes somepeople visited this post for check more detail's about me, okkay next to the points, because i don't want to waste your times.
 
