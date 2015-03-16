@@ -29,7 +29,7 @@ i hope we can be good friend's, Sometimes somepeople visited this post for check
 
 I like typing and sharing everything about computer tutorial's, but i'm sorry i can't included all link on here, Just only my recent link authored by me.
 
-* Linux		: [Tricktux](http://tricktux.blogspot.com)
+* Linux		: [Tricktux](http://tricktux.blogspot.com){:target="_blank"}
 * Mobile App's	: [Pondokprogrammer](http://pondokprogrammer.com/blog/author/creatorb)
 * Programming	: [creatorb-LAB](http://creatorb-lab.blogspot.com)
 
