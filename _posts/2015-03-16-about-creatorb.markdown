@@ -10,6 +10,7 @@ description: "Hi developer and coder, Wherever you are. I want to open less my m
 Hi dev and coders, greetings from me and welcome to my small repo's.
 i hope we can be good friend's, Sometimes somepeople visited this post for check more detail's about me, okkay next to the points, because i don't want to waste your times.
 
+
 ###Detail's Me
 
 * Real Name	: Hasan Basri
@@ -25,32 +26,33 @@ i hope we can be good friend's, Sometimes somepeople visited this post for check
 * Country 	: Indonesia
 * Email		: creatorb45@gmail.com
 
-###Recent Authored
 
+###Recent Authored
 I like typing and sharing everything about computer tutorial's, but i'm sorry i can't included all link on here, Just only my recent link authored by me.
 
 * Linux		: [Tricktux](http://tricktux.blogspot.com){:target="_blank"}
-* Mobile App's	: [Pondokprogrammer](http://pondokprogrammer.com/blog/author/creatorb)
-* Programming	: [creatorb-LAB](http://creatorb-lab.blogspot.com)
+* Mobile App's	: [Pondokprogrammer](http://pondokprogrammer.com/blog/author/creatorb){:target="_blank"}
+* Programming	: [creatorb-LAB](http://creatorb-lab.blogspot.com){:target="_blank"}
+
 
 ###Recent Book's
+* Slideshare	: [creatorb](http://www.slideshare.net/creatorb){:target="_blank"}
+* Scribd	: [creatorb](http://www.scribd.com/creatorb){:target="_blank"}
 
-* Slideshare	: [creatorb](http://www.slideshare.net/creatorb)
-* Scribd	: [creatorb](http://www.scribd.com/creatorb)
 
 ###Recent Web's
+* Freebsd Profile	: [creatorb.freebsd.md](http://creatorb.freebsd.md){:target="_blank"}
+* Jasaprogrammer Site's : [creatorb jasaprogrammer](http://creatorb.jasaprogrammer.com){:target="_blank"}
+* AboutMe		: [Short Me](http://about.me/creatorb){:target="_blank"}
 
-* Freebsd Profile	: [creatorb.freebsd.md](http://creatorb.freebsd.md)
-* Jasaprogrammer Site's : [creatorb jasaprogrammer](http://creatorb.jasaprogrammer.com)
-* AboutMe		: [Short Me](http://about.me/creatorb)
 
 ###Recent Active's
+* Twitter	: [@creatorbe](http://twitter.com/creatorbe){:target="_blank"}
+* Facebook	: [Creatorb](http://facebook.com/creatorbe){:target="_blank"}
+* gplus		: [Creatorb Doodler](https://plus.google.com/118116077271759320582){:target="_blank"}
+* Youtube	: [Creatorb](https://www.youtube.com/channel/UCbyEh3nQ0H_7-P5ukcZyUvg){:target="_blank"}
 
-* Twitter	: [@creatorbe](http://twitter.com/creatorbe)
-* Facebook	: [Creatorb](http://facebook.com/creatorbe)
-* gplus		: [Creatorb Doodler](https://plus.google.com/118116077271759320582)
-* Youtube	: [Creatorb](https://www.youtube.com/channel/UCbyEh3nQ0H_7-P5ukcZyUvg)
 
 ###Recent More
+* Google	: [Search Me on google](https://www.google.com/search?q=creatorb){:target="_blank"}
 
-* Google	: [Search Me on google](https://www.google.com/search?q=creatorb)
