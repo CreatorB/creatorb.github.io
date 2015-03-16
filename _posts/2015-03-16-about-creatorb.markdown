@@ -1,8 +1,8 @@
 ---
 layout	: post
-title	: "About Creatorb"
-date:   : 2015-03-16 16:55:00
-tags	: CSS
+title	: "about creatorb"
+date   : 2015-03-16 16:55:00
+tags	: creatorb
 description: "Hi developer and coder, Wherever you are. I want to open less my mask by introducing my self, yes it's real me ;) creatorb was here"
 ---
 
