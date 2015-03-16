@@ -1,9 +1,9 @@
 creatorb Blog
 ---
 
-just simle portfolio
+just simple portfolio
 
-![](http://i.imgur.com/3CGmRF9.png)
+![]()
 
 You can fork my blog's code if you wish to or contribute to it to make it better.
 
