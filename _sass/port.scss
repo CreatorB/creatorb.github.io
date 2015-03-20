@@ -335,6 +335,23 @@ height: 50vh;
 line-height: 25vh !important;
 }
 
+#sites:nth-child(7) {
+
+background-image: url(/img/);
+background-size: 50% 50%;
+-webkit-flex-basis: 50%;
+-moz-flex-basis: 50%;
+-ms-flex-basis: 50%;
+-o-flex-basis: 50%;
+flex-basis: 50%;
+width: 50% !important;
+height: 50vh;
+}
+
+#sites:nth-child(7) p {
+line-height: 25vh !important;
+}
+
 
 /****"Hire Me" Button Styling*************/
 
