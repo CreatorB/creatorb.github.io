@@ -107,11 +107,11 @@ color: white;
 }
 
 @-webkit-keyframes fallIt {
-	
+
 	from {
 
 	-webkit-transform: scale(0);
-	
+
 
 
 	}
@@ -119,18 +119,18 @@ color: white;
 
 
 -webkit-transform: scale(1);
-	
-	
+
+
 
 	}
 }
 
 @-moz-keyframes fallIt {
-	
+
 	from {
 
 	transform: scale(0);
-	
+
 
 
 	}
@@ -138,18 +138,18 @@ color: white;
 
 
   stransform: scale(1);
-	
-	
+
+
 
 	}
 }
 
 @-ms-keyframes fallIt {
-	
+
 	from {
 
 	-ms-transform: scale(0);
-	
+
 
 
 	}
@@ -157,18 +157,18 @@ color: white;
 
 
 -ms-transform: scale(1);
-	
-	
+
+
 
 	}
 }
 
 @-o-keyframes fallIt {
-	
+
 	from {
 
 	-o-transform: scale(0);
-	
+
 
 
 	}
@@ -176,14 +176,14 @@ color: white;
 
 
 -o-transform: scale(1);
-	
-	
+
+
 
 	}
 }
 
 @keyframes fallIt {
-	
+
 	from {
 
 	transform: scale(0);
@@ -192,7 +192,7 @@ color: white;
 	to {
 
  transform: scale(1);
-	
+
 
 	}
 }
@@ -318,6 +318,12 @@ background-image: url(/img/art.jpg);
 
 }
 
+#sites:nth-child(6) {
+
+background-image: url(/img/productstore.jpg);
+
+}
+
 
 /****"Hire Me" Button Styling*************/
 
@@ -383,9 +389,3 @@ flex-basis: 100%;
 	font-size: 20px;
 }
 }
-
-
-
-
-
-
