@@ -320,8 +320,19 @@ background-image: url(/img/art.jpg);
 
 #sites:nth-child(6) {
 
-background-image: url(/img/productstore.jpg);
+background-image: url(/img/productstore.png);
+background-size: 100% 100%;
+-webkit-flex-basis: 100%;
+-moz-flex-basis: 100%;
+-ms-flex-basis: 100%;
+-o-flex-basis: 100%;
+flex-basis: 100%;
+width: 100% !important;
+height: 50vh;
+}
 
+#sites:nth-child(6) p {
+line-height: 25vh !important;
 }
 
 
