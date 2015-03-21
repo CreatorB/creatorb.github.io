@@ -28,6 +28,11 @@ i hope we can be good friend's, Sometimes somepeople visited this post for check
 * Email		: creatorb45@gmail.com
 * Repository	: [github/CreatorB](https://github.com/CreatorB){:target="_blank"}
 
+###Contact
+
+* BBM		: 55FCEED6
+* Telegram	: @creatorb
+
 ###Recent Authored
 I like typing and sharing everything about computer tutorial's, but i'm sorry i can't included all link on here, Just only my recent link authored by me.
 
