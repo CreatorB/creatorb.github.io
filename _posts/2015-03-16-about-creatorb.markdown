@@ -52,12 +52,18 @@ I like typing and sharing everything about computer tutorial's, but i'm sorry i 
 * AboutMe		: [Short Me](http://about.me/creatorb){:target="_blank"}
 
 
-###Recent Active's
+###Recent Social's
 * Twitter	: [@creatorbe](http://twitter.com/creatorbe){:target="_blank"}
 * Facebook	: [Creatorb](http://facebook.com/creatorbe){:target="_blank"}
 * gplus		: [Creatorb Doodler](https://plus.google.com/118116077271759320582){:target="_blank"}
 * Youtube	: [Creatorb](https://www.youtube.com/channel/UCbyEh3nQ0H_7-P5ukcZyUvg){:target="_blank"}
 
+###Recent Active's
+<script language="JavaScript" src="http://feed2js.org//feed2js.php?src=http%3A%2F%2Fgistrss.appspot.com%2Ffeed%2Fcreatorb&chan=y&desc=1&targ=y&utf=y"  charset="UTF-8" type="text/javascript"></script>
+
+	<noscript>
+	<a href="http://feed2js.org//feed2js.php?src=http%3A%2F%2Fgistrss.appspot.com%2Ffeed%2Fcreatorb&chan=y&desc=1&targ=y&utf=y&html=y">View RSS feed</a>
+	</noscript>
 
 ###Recent More
 * Google	: [Search Me on google](https://www.google.com/search?q=creatorb){:target="_blank"}
