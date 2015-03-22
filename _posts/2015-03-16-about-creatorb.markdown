@@ -58,7 +58,7 @@ I like typing and sharing everything about computer tutorial's, but i'm sorry i 
 * gplus		: [Creatorb Doodler](https://plus.google.com/118116077271759320582){:target="_blank"}
 * Youtube	: [Creatorb](https://www.youtube.com/channel/UCbyEh3nQ0H_7-P5ukcZyUvg){:target="_blank"}
 
-###Recent Active's
+###Recent Gist's
 <script language="JavaScript" src="http://feed2js.org//feed2js.php?src=http%3A%2F%2Fgistrss.appspot.com%2Ffeed%2Fcreatorb&chan=y&desc=1&targ=y&utf=y"  charset="UTF-8" type="text/javascript"></script>
 
 
