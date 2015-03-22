@@ -61,9 +61,6 @@ I like typing and sharing everything about computer tutorial's, but i'm sorry i 
 ###Recent Active's
 <script language="JavaScript" src="http://feed2js.org//feed2js.php?src=http%3A%2F%2Fgistrss.appspot.com%2Ffeed%2Fcreatorb&chan=y&desc=1&targ=y&utf=y"  charset="UTF-8" type="text/javascript"></script>
 
-	<noscript>
-	<a href="http://feed2js.org//feed2js.php?src=http%3A%2F%2Fgistrss.appspot.com%2Ffeed%2Fcreatorb&chan=y&desc=1&targ=y&utf=y&html=y">View RSS feed</a>
-	</noscript>
 
 ###Recent More
 * Google	: [Search Me on google](https://www.google.com/search?q=creatorb){:target="_blank"}
