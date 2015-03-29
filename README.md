@@ -16,4 +16,4 @@ all pretty happy about this. Here's simple ways to get started:
 
 ## Contact
 
-Feel free to connect me on [twitter](http://twitter.com/@creatorbe) if you have any questions.
+Feel free to connect me on [twitter](http://twitter.com/creatorbe) if you have any questions.
