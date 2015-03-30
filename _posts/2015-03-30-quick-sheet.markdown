@@ -9,23 +9,23 @@ comments: true
 
 Hi there, Sure i know this is still early to be said completed cheat sheet so sorry if there are missed something, because you can improve to make it better. Visit our [repository](https://github.com/CreatorB/creatorb.github.io) if you want to contributing.
 
-## General Cheat Sheet
+### General Cheat Sheet
 
 - [Overapi](http://overapi.com/)
 
-## Github
+### Github
 
-### Repository Tips
+**Repository Tips**
 
 - [Git improve](https://github.com/CreatorB/git-improve)
 
-### Cheat Sheet
+**Cheat Sheet**
 
 - [Training Github](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 
-## Linux
+### Linux
 
-###Linux Command Line
+**Linux Command Line**
 
 - [Linux Reference Card](http://files.fosswire.com/2007/08/fwunixref.pdf) - Great reference published on FOSSwire website
 - [One page Linux Manual](http://www.digilife.be/quickreferences/QRC/The%20One%20Page%20Linux%20Manual.pdf) - Great one page reference to the most popular Linux commands
@@ -34,7 +34,7 @@ Hi there, Sure i know this is still early to be said completed cheat sheet so so
 - [Terminal Shortcuts](http://www.unixguide.net/linux/linuxshortcuts.shtml) - Cheat sheet for the most common terminal shortcuts
 - [More Terminal Shortcuts](http://www.tuxfiles.org/linuxhelp/shortcuts.html) - More shortcuts for history and X
 
-###Linux Security
+**Linux Security**
 
 - [Linux Security Quick Reference Guide](http://www.digilife.be/quickreferences/QRC/Linux%20Security%20Quick%20Reference%20Guide.pdf) - An awesome security checklist reference
 - [IP Tables](http://heim.ifi.uio.no/~patrickr/cms/wordpress/?p=37) - If you are interested in Linux firewalls this is a must have
@@ -44,17 +44,17 @@ Hi there, Sure i know this is still early to be said completed cheat sheet so so
 - [Common Ports](http://packetlife.net/static/cheatsheets/common-ports.pdf) - In case you don’t have all common ports memorized
 - [netcat](http://www.sans.org/resources/sec560/netcat_cheat_sheet_v1.pdf) - Reference to the swiss army knife of networking
 
-###Linux Administration
+**Linux Administration**
 
 - [Linux Admin Quick Reference](http://www.digilife.be/quickreferences/QRC/LINUX%20Admin%20Quick%20Reference.pdf) - PDF cheat sheet of common Linux administration tasks
 - [Crontab Reference](http://www.mostlygeek.com/tech-reference/crontab-reference/) - Also see [Learning Cron by Example](http://www.marksanborn.net/linux/learning-cron-by-example/)
 
-###Gnome/KDE
+**Gnome/KDE**
 
 - [Useful Gnome/KDE shortcuts](http://www.novell.com/coolsolutions/tip/2289.html)
 - [KDE Cheat Sheet](http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/blogs.howtogeek.com/jatecblog/files/2007/11/kubuntu-cheatsheet.pdf) - KDE specific cheat sheet
 
-###Sed/AWK/Vim and other tools
+**Sed/AWK/Vim and other tools**
 
 - [Vi Cheat Sheet](http://www.eec.com/business/vi.html) - Who doesn’t love Vi/Vim. Also check out nixtutor [guest post on Vim](http://eriwen.com/tools/vim-is-a-beautiful-tool/).
 - [Concise Vim Cheat Sheet](http://www.pixelbeat.org/vim.tips.html)
@@ -64,18 +64,13 @@ Hi there, Sure i know this is still early to be said completed cheat sheet so so
 - [Screen Terminal Emulator Cheat Sheet](http://www.catonmat.net/blog/screen-terminal-emulator-cheat-sheet/) - PDF cheat sheet for screen
 - [Vi/Vim Cheat Sheet](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html) - Nice vim/vi keyboard layout reference
 
-###Distro Specific
+**Distro Specific**
 
 - [Ubuntu Cheat Sheet](http://fosswire.com/post/2008/4/ubuntu-cheat-sheet/) - Ubuntu specific cheat sheet
 - [Debian Cheat Sheet](http://xinocat.com/refcard/refcard-en-lt.pdf) - Debian specific cheat sheet
 
-###Another Reference
+**Another Reference**
 
 - [Online Man Pages](http://www.linuxmanpages.com/) - The ultimate cheat sheet repository. Also use the ‘man’ command.
 - [The Linux Command Line](http://www.slideshare.net/creatorb/ebook-completed-linux-command-tutorials) - Ebook
 - [CLI](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) General Command Page
-
-
-
-
-
