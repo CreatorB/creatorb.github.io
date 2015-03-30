@@ -4,7 +4,7 @@ published: false
 
 ---
 layout	: post
-title	: "Quick Sheet"
+title	: "quick sheet"
 date   	: 2015-03-30 04:00:00
 tags	: linux
 description: "The easy ways for get cheat sheet quickly. Let's break everything forgetfulness by write it"
