@@ -1,6 +1,6 @@
 ---
 layout	: post
-title	: "Quick Sheet"
+title	: "Quick Sh*t !!!"
 date   	: 2015-03-30 07:24:00
 tags	: linux
 description: "The easy ways for get cheat sheet quickly. Let's break everything forgetfulness by write it"
