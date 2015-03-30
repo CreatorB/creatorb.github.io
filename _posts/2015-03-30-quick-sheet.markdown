@@ -15,7 +15,7 @@ Hi there, Sure i know this is still early to be said completed cheat sheet so so
 
 ## Github
 
-### Repository Tip's
+### Repository Tips
 
 - [Git improve](https://github.com/CreatorB/git-improve)
 
