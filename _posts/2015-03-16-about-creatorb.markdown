@@ -42,8 +42,10 @@ I like typing and sharing everything about computer tutorial's, but i'm sorry i 
 
 
 ###Recent Book's
-* Slideshare	: [creatorb](http://www.slideshare.net/creatorb){:target="_blank"}
-* Scribd	: [creatorb](http://www.scribd.com/creatorb){:target="_blank"}
+
+* Smashwords	: [Creatorb Programmer Writer](https://www.smashwords.com/profile/view/creatorb)
+* Slideshare	: [creatorb ebooks](http://www.slideshare.net/creatorb){:target="_blank"}
+* Scribd	: [creatorb ebooks](http://www.scribd.com/creatorb){:target="_blank"}
 
 
 ###Recent Web's
