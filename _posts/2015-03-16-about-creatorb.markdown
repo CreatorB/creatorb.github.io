@@ -43,7 +43,7 @@ I like typing and sharing everything about computer tutorial's, but i'm sorry i 
 
 ###Recent Book's
 
-* Smashwords	: [Creatorb Programmer Writer](https://www.smashwords.com/profile/view/creatorb)
+* Smashwords	: [Creatorb Programmer Writer](https://www.smashwords.com/profile/view/creatorb){:target="_blank"}
 * Slideshare	: [creatorb ebooks](http://www.slideshare.net/creatorb){:target="_blank"}
 * Scribd	: [creatorb ebooks](http://www.scribd.com/creatorb){:target="_blank"}
 
