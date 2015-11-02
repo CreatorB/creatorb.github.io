@@ -28,5 +28,5 @@ Coming soon!
 
 This app underdevelopment,
 
-site : [Pengantar.com](http://pengantar.com)
+site : [Pengantar.com](http://pengantar.com){:target="_blank"}
 
