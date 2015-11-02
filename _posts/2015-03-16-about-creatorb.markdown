@@ -27,7 +27,7 @@ i hope we can be good friend's, Sometimes somepeople visited this post for check
 * Country 	: Indonesia
 * Email		: creatorb45@gmail.com
 * Repository	: [github/CreatorB](https://github.com/CreatorB){:target="_blank"}
-* Official Blog : [creatorbe.com](http://creatorbe.com)
+* Official Blog : [creatorbe.com](http://creatorbe.com){:target="_blank"}
 
  
 ###Contact
