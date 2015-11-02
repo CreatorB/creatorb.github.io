@@ -38,7 +38,7 @@ From here, i hope we can easy to connect and lets building a nice relations, Som
 
 ###Recent Profiles
 
-* Freelancer.com : [creatorb](https://www.freelancer.no/u/creatorbe.html){:target="_blank"}
+* Freelancer.com : [creatorb](https://www.freelancer.com/u/creatorbe.html){:target="_blank"}
 
 ###Recent Authored
 I like typing and sharing everything about computer tutorial's, but i'm sorry i can't included all link on here, Just only my recent link authored by me.
