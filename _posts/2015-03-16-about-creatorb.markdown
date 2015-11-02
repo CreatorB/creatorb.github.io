@@ -9,7 +9,7 @@ comments: false
 
 ###Gretings
 Hi dev and coders, greetings from me and welcome to my small repo's.
-i hope we can connect and building nice relations, Sometimes somepeople visited this post for check more detail's about me, okkay next to the points, i don't want to waste your times. Unveil the mask, it's me. creatorbe was here.
+From here, i hope we can easy to connect and lets building a nice relations, Sometimes somepeople visited this post for check more detail's about me, okkay next to the points, i don't want to waste your times. Unveil the mask, it's me. creatorbe was here.
 
 
 ###Detail's Me
