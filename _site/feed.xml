@@ -2,12 +2,291 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hasan Basri</title>
-    <description>creatorb fullstack developer</description>
+    <description>creatorb - indonesian android developer</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 16 Mar 2015 14:56:15 +0700</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2015 14:56:15 +0700</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Mon, 02 Nov 2015 09:49:31 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2015 09:49:31 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Radio MIT ACEH</title>
+        <description>&lt;h3 id=&quot;introduction-mit&quot;&gt;Introduction MIT&lt;/h3&gt;
+
+&lt;p&gt;Information Society Technology (MIT) is a community of people who care about and actively disseminate the use of Information and Communication Technology (ICT) is positive and productive. See more &lt;a href=&quot;http://mit.or.id&quot; target=&quot;_blank&quot;&gt;mit.or.id&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;radio-mit&quot;&gt;Radio MIT&lt;/h3&gt;
+
+&lt;p&gt;Simple and lightweight radio app for hearing mit channel.&lt;/p&gt;
+
+&lt;h3 id=&quot;screenshot&quot;&gt;Screenshot&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7334/16399544066_f912589702_o_d.png&quot; alt=&quot;Mit Radio&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;details&quot;&gt;Details&lt;/h3&gt;
+
+&lt;p&gt;Opensources!&lt;/p&gt;
+
+&lt;p&gt;Source Code : &lt;a href=&quot;https://github.com/CreatorB/RadioMIT&quot; target=&quot;_blank&quot;&gt;https://github.com/CreatorB/RadioMIT&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Nov 2015 09:33:40 +0000</pubDate>
+        <link>/2015/11/02/radio-mit-aceh/</link>
+        <guid isPermaLink="true">/2015/11/02/radio-mit-aceh/</guid>
+        
+        <category>portfolio</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mobile-dev Repo</title>
+        <description>&lt;p&gt;When you find good places for the next beginners step, maybe here is it. Lets clone and modified, happy coding.&lt;/p&gt;
+
+&lt;h3 id=&quot;currently-apps&quot;&gt;Currently Apps&lt;/h3&gt;
+
+&lt;p&gt;Lets checkout &lt;a href=&quot;https://github.com/pondokprogrammer/mobile-dev/tree/master/android&quot; target=&quot;_blank&quot;&gt;Pondokprogrammer mobile-dev Repo&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;usage&quot;&gt;Usage&lt;/h3&gt;
+
+&lt;p&gt;Download All Repository of MD : 
+&lt;code&gt;$ git clone git@github.com:pondokprogrammer/mobile-dev&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Download Sub Repository of MD : https://github.com/CreatorB/SubRepoDownloader&lt;/p&gt;
+
+&lt;p&gt;Android Library : https://github.com/CreatorB/Android-Library/tree/master/ListofLibrary&lt;/p&gt;
+
+&lt;h3 id=&quot;on-the-wild&quot;&gt;On The Wild&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/developer?id=jasa+programmer&quot;&gt;&lt;img src=&quot;https://www.gstatic.com/android/market_images/web/play_logo_x2.png&quot; alt=&quot;Get it on Google Play&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;contributing&quot;&gt;Contributing&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Fork it!&lt;/li&gt;
+  &lt;li&gt;Create your feature branch: &lt;code&gt;git checkout -b my-new-feature&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Commit your changes: &lt;code&gt;git commit -am &#39;Add some feature&#39;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Push to the branch: &lt;code&gt;git push origin my-new-feature&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Submit a pull request ;)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;license&quot;&gt;License&lt;/h3&gt;
+
+&lt;p&gt;[&lt;img src=&quot;http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png&quot; alt=&quot;OPEN SOURCES&quot; /&gt;]&lt;/p&gt;
+
+&lt;p&gt;The MIT License (MIT)&lt;/p&gt;
+
+&lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:&lt;/p&gt;
+
+&lt;p&gt;The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.&lt;/p&gt;
+
+&lt;p&gt;THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Nov 2015 08:38:40 +0000</pubDate>
+        <link>/2015/11/02/pondokprogrammer-mobile-development-repository/</link>
+        <guid isPermaLink="true">/2015/11/02/pondokprogrammer-mobile-development-repository/</guid>
+        
+        <category>portfolio</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Quick Sh*t !!!</title>
+        <description>&lt;p&gt;Hi there, Sure i know this is still early to be said completed cheat sheet so sorry if there are missed something, because you can improve to make it better. Visit our &lt;a href=&quot;https://github.com/CreatorB/creatorb.github.io&quot;&gt;repository&lt;/a&gt; if you want to contributing.&lt;/p&gt;
+
+&lt;h3 id=&quot;general-cheat-sheet&quot;&gt;General Cheat Sheet&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://overapi.com/&quot;&gt;Overapi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;github&quot;&gt;Github&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Repository Tips&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/CreatorB/git-improve&quot;&gt;Git improve&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cheat Sheet&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf&quot;&gt;Training Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;linux&quot;&gt;Linux&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Linux Command Line&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://files.fosswire.com/2007/08/fwunixref.pdf&quot;&gt;Linux Reference Card&lt;/a&gt; - Great reference published on FOSSwire website&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.digilife.be/quickreferences/QRC/The%20One%20Page%20Linux%20Manual.pdf&quot;&gt;One page Linux Manual&lt;/a&gt; - Great one page reference to the most popular Linux commands&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cb.vu/unixtoolbox.xhtml&quot;&gt;Unix Tool Box&lt;/a&gt; - An incredibly exhaustive reference for all things Linux.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.rain.org/~mkummel/unix.html&quot;&gt;Treebeard’s Unix Cheat Sheet&lt;/a&gt; - A great reference with Dos comparisons&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.unixguide.net/linux/linuxshortcuts.shtml&quot;&gt;Terminal Shortcuts&lt;/a&gt; - Cheat sheet for the most common terminal shortcuts&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tuxfiles.org/linuxhelp/shortcuts.html&quot;&gt;More Terminal Shortcuts&lt;/a&gt; - More shortcuts for history and X&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Linux Security&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.digilife.be/quickreferences/QRC/Linux%20Security%20Quick%20Reference%20Guide.pdf&quot;&gt;Linux Security Quick Reference Guide&lt;/a&gt; - An awesome security checklist reference&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://heim.ifi.uio.no/~patrickr/cms/wordpress/?p=37&quot;&gt;IP Tables&lt;/a&gt; - If you are interested in Linux firewalls this is a must have&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://packetlife.net/static/cheatsheets/tcpdump.pdf&quot;&gt;TCPDump&lt;/a&gt; - Great cheat sheet to an awesome security tool&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://packetlife.net/static/cheatsheets/wireshark-display-filters.pdf&quot;&gt;Wireshark Filters&lt;/a&gt; - An awesome list of filters for the best packet sniffing utility&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://packetlife.net/static/cheatsheets/ip-access-lists.pdf&quot;&gt;IP Access Lists&lt;/a&gt; - Cheat sheet for IP Access Lists&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://packetlife.net/static/cheatsheets/common-ports.pdf&quot;&gt;Common Ports&lt;/a&gt; - In case you don’t have all common ports memorized&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sans.org/resources/sec560/netcat_cheat_sheet_v1.pdf&quot;&gt;netcat&lt;/a&gt; - Reference to the swiss army knife of networking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Linux Administration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.digilife.be/quickreferences/QRC/LINUX%20Admin%20Quick%20Reference.pdf&quot;&gt;Linux Admin Quick Reference&lt;/a&gt; - PDF cheat sheet of common Linux administration tasks&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.mostlygeek.com/tech-reference/crontab-reference/&quot;&gt;Crontab Reference&lt;/a&gt; - Also see &lt;a href=&quot;http://www.marksanborn.net/linux/learning-cron-by-example/&quot;&gt;Learning Cron by Example&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Gnome/KDE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.novell.com/coolsolutions/tip/2289.html&quot;&gt;Useful Gnome/KDE shortcuts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/blogs.howtogeek.com/jatecblog/files/2007/11/kubuntu-cheatsheet.pdf&quot;&gt;KDE Cheat Sheet&lt;/a&gt; - KDE specific cheat sheet&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Sed/AWK/Vim and other tools&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.eec.com/business/vi.html&quot;&gt;Vi Cheat Sheet&lt;/a&gt; - Who doesn’t love Vi/Vim. Also check out nixtutor &lt;a href=&quot;http://eriwen.com/tools/vim-is-a-beautiful-tool/&quot;&gt;guest post on Vim&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.pixelbeat.org/vim.tips.html&quot;&gt;Concise Vim Cheat Sheet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.catonmat.net/blog/awk-nawk-and-gawk-cheat-sheet/&quot;&gt;awk nawk and gawk cheat sheet&lt;/a&gt; - Awesome awk sheet, also check out &lt;a href=&quot;http://eriwen.com/tools/awk-is-a-beautiful-tool/&quot;&gt;awk is a beautiful tool&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.catonmat.net/blog/sed-stream-editor-cheat-sheet/&quot;&gt;Sed Stream Editor Cheat Sheet&lt;/a&gt; - &lt;a href=&quot;http://eriwen.com/tools/get-sed-savvy-1/&quot;&gt;Savvy Sed&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://aperiodic.net/screen/quick_reference?do=show&quot;&gt;Screen Quick Reference&lt;/a&gt; - Quick reference to a must have screen emulator, Also check out &lt;a href=&quot;http://www.nixtutor.com/linux/introduction-to-gnu-screen/&quot;&gt;Introduction to GNU Screen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.catonmat.net/blog/screen-terminal-emulator-cheat-sheet/&quot;&gt;Screen Terminal Emulator Cheat Sheet&lt;/a&gt; - PDF cheat sheet for screen&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html&quot;&gt;Vi/Vim Cheat Sheet&lt;/a&gt; - Nice vim/vi keyboard layout reference&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Distro Specific&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://fosswire.com/post/2008/4/ubuntu-cheat-sheet/&quot;&gt;Ubuntu Cheat Sheet&lt;/a&gt; - Ubuntu specific cheat sheet&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://xinocat.com/refcard/refcard-en-lt.pdf&quot;&gt;Debian Cheat Sheet&lt;/a&gt; - Debian specific cheat sheet&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Another Reference&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.linuxmanpages.com/&quot;&gt;Online Man Pages&lt;/a&gt; - The ultimate cheat sheet repository. Also use the ‘man’ command.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.slideshare.net/creatorb/ebook-completed-linux-command-tutorials&quot;&gt;The Linux Command Line&lt;/a&gt; - Ebook&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cli.learncodethehardway.org/bash_cheat_sheet.pdf&quot;&gt;CLI&lt;/a&gt; General Command Page&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 30 Mar 2015 07:24:00 +0000</pubDate>
+        <link>/2015/03/30/quick-sheet/</link>
+        <guid isPermaLink="true">/2015/03/30/quick-sheet/</guid>
+        
+        <category>linux</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>about creatorb</title>
+        <description>&lt;h3 id=&quot;gretings&quot;&gt;Gretings&lt;/h3&gt;
+&lt;p&gt;Hi dev and coders, greetings from me and welcome to my small repo’s.
+i hope we can be good friend’s, Sometimes somepeople visited this post for check more detail’s about me, okkay next to the points, because i don’t want to waste your times.&lt;/p&gt;
+
+&lt;h3 id=&quot;details-me&quot;&gt;Detail’s Me&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Real Name	: Hasan Basri&lt;/li&gt;
+  &lt;li&gt;Code Name	: CreatorB&lt;/li&gt;
+  &lt;li&gt;Gender	: Male&lt;/li&gt;
+  &lt;li&gt;Hobby		: Everything’s about Computer&lt;/li&gt;
+  &lt;li&gt;Dream		: Being a good Moslem and someone useful&lt;/li&gt;
+  &lt;li&gt;Education	: Pondokprogrammer&lt;/li&gt;
+  &lt;li&gt;Organization	: Jasaprogrammer&lt;/li&gt;
+  &lt;li&gt;Title		: Developer&lt;/li&gt;
+  &lt;li&gt;Hometown	: Situbondo, east java&lt;/li&gt;
+  &lt;li&gt;City		: Yogyakarta&lt;/li&gt;
+  &lt;li&gt;Country 	: Indonesia&lt;/li&gt;
+  &lt;li&gt;Email		: creatorb45@gmail.com&lt;/li&gt;
+  &lt;li&gt;Repository	: &lt;a href=&quot;https://github.com/CreatorB&quot; target=&quot;_blank&quot;&gt;github/CreatorB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Official Blog : &lt;a href=&quot;http://creatorbe.com&quot; target=&quot;_blank&quot;&gt;creatorbe.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;contact&quot;&gt;Contact&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;BBM		: 55FCEED6&lt;/li&gt;
+  &lt;li&gt;Telegram	: @creatorbe&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;recent-authored&quot;&gt;Recent Authored&lt;/h3&gt;
+&lt;p&gt;I like typing and sharing everything about computer tutorial’s, but i’m sorry i can’t included all link on here, Just only my recent link authored by me.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Linux		: &lt;a href=&quot;http://tricktux.blogspot.com&quot; target=&quot;_blank&quot;&gt;Tricktux&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Mobile App’s	: &lt;a href=&quot;http://pondokprogrammer.com/blog/author/creatorb&quot; target=&quot;_blank&quot;&gt;Pondokprogrammer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Programming	: &lt;a href=&quot;http://creatorb-lab.blogspot.com&quot; target=&quot;_blank&quot;&gt;creatorb-LAB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;recent-books&quot;&gt;Recent Book’s&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Smashwords	: &lt;a href=&quot;https://www.smashwords.com/profile/view/creatorb&quot; target=&quot;_blank&quot;&gt;Creatorb Programmer Writer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Slideshare	: &lt;a href=&quot;http://www.slideshare.net/creatorb&quot; target=&quot;_blank&quot;&gt;creatorb ebooks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Scribd	: &lt;a href=&quot;http://www.scribd.com/creatorb&quot; target=&quot;_blank&quot;&gt;creatorb ebooks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;recent-webs&quot;&gt;Recent Web’s&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Freebsd Profile	: &lt;a href=&quot;http://creatorb.freebsd.md&quot; target=&quot;_blank&quot;&gt;creatorb.freebsd.md&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Jasaprogrammer Site’s : &lt;a href=&quot;http://creatorb.jasaprogrammer.com&quot; target=&quot;_blank&quot;&gt;creatorb jasaprogrammer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;AboutMe		: &lt;a href=&quot;http://about.me/creatorb&quot; target=&quot;_blank&quot;&gt;Short Me&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;recent-socials&quot;&gt;Recent Social’s&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Twitter	: &lt;a href=&quot;http://twitter.com/creatorbe&quot; target=&quot;_blank&quot;&gt;@creatorbe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Facebook	: &lt;a href=&quot;http://facebook.com/creatorbe&quot; target=&quot;_blank&quot;&gt;Creatorb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;gplus		: &lt;a href=&quot;https://plus.google.com/118116077271759320582&quot; target=&quot;_blank&quot;&gt;Creatorb Doodler&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;recent-archives&quot;&gt;Recent Archive’s&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Pinterest	: &lt;a href=&quot;https://www.pinterest.com/creatorb/&quot; target=&quot;_blank&quot;&gt;creatorb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Youtube	: &lt;a href=&quot;https://www.youtube.com/channel/UCbyEh3nQ0H_7-P5ukcZyUvg&quot; target=&quot;_blank&quot;&gt;Creatorb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;recent-gists&quot;&gt;Recent Gist’s&lt;/h3&gt;
+&lt;script language=&quot;JavaScript&quot; src=&quot;http://feed2js.org//feed2js.php?src=http%3A%2F%2Fgistrss.appspot.com%2Ffeed%2Fcreatorb&amp;amp;chan=y&amp;amp;desc=1&amp;amp;targ=y&amp;amp;utf=y&quot; charset=&quot;UTF-8&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;recent-more&quot;&gt;Recent More&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Google	: &lt;a href=&quot;https://www.google.com/search?q=creatorb&quot; target=&quot;_blank&quot;&gt;Search Me on google&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 16 Mar 2015 16:55:00 +0000</pubDate>
+        <link>/2015/03/16/about-creatorb/</link>
+        <guid isPermaLink="true">/2015/03/16/about-creatorb/</guid>
+        
+        <category>creatorb</category>
+        
+        
+      </item>
     
   </channel>
 </rss>
