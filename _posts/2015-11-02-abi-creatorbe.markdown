@@ -3,7 +3,7 @@ layout	: post
 title	: "ABI - Ayo Belajar Islam"
 date   	: 2015-11-02 15:45:35
 tags	: portfolio
-description: "Easily and comfortable for learn basic of islam"
+description: "Easily and comfortable for learn basic of islam."
 comments: false
 ---
 
@@ -44,4 +44,10 @@ Jobposition :
 
 ### Screenshot
 
-<img src="https://lh4.ggpht.com/khOukpiNzB3-5XRq2JAu8ofI-PiIxPAgm8O0e5988MqSzENhnRDD8qysTMrQsvEfQw=h900-rw" style="width:2OOpx; height:300px"> <img src="http://lh3.googleusercontent.com/F39ZUr4hWsBn7fn-WKHEa8zcyHzLKNrmw1PhJ25wx2-a4h3bx686P93TeDxQUGlhrqM=h900-rw" alt="astra_calculation" style="width:2OOpx; height:300px"> <img src="https://lh6.ggpht.com/xZeOjAlx1X2OYZq54WjhbVuSNN20sf8RCBDmHqRZaJ-ayTFLRkaBnno4up0Zgyio_kA=h900-rw" style="width:2OOpx; height:300px"> <img src="https://lh4.ggpht.com/f4fynRm9GJ6vzq0X_Wer9DuYhtKwrAS7uoEsG4hrVHinGtWsfXdLl-AksmAcGVEAKe8=h900-rw" style="width:2OOpx; height:300px"> <img src="https://lh5.ggpht.com/7J1t72P3zmi9avpuUDDN8GCZ4kqSN2PkzlB7hRKbPgxrR-Z_UTHtBX0FqgjtAP8ZrQ=h900-rw" style="width:2OOpx; height:300px"> <img src="" style="width:2OOpx; height:300px">
+<img src="https://lh4.ggpht.com/khOukpiNzB3-5XRq2JAu8ofI-PiIxPAgm8O0e5988MqSzENhnRDD8qysTMrQsvEfQw=h900-rw" style="width:2OOpx; height:300px"> <img src="https://lh4.ggpht.com/t4kBARufayEjcVCw77U4T9UnuSxdTd8p1SzIPSbZPqYjQBFOtLUnBNqAe90s4b3e0lI=h900-rw" style="width:2OOpx; height:300px"> <img src="https://lh6.ggpht.com/xZeOjAlx1X2OYZq54WjhbVuSNN20sf8RCBDmHqRZaJ-ayTFLRkaBnno4up0Zgyio_kA=h900-rw" style="width:2OOpx; height:300px"> <img src="https://lh4.ggpht.com/f4fynRm9GJ6vzq0X_Wer9DuYhtKwrAS7uoEsG4hrVHinGtWsfXdLl-AksmAcGVEAKe8=h900-rw" style="width:2OOpx; height:300px">
+
+
+
+### Download
+
+<a href="https://play.google.com/store/apps/details?id=com.itdakwah.ayobelajarislam&hl=en" target="_blank"><img src="https://www.gstatic.com/android/market_images/web/play_one_bar_logo_2x.png" style="width:1OOpx; height:50px"></a>
