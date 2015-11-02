@@ -4,7 +4,7 @@ title: ABOUT
 permalink: /about/
 ---
 <img class="about-pic" src="/img/me.jpg">
-Hasan Basri as known as creatorb, CEO of [jasaprogrammer.com](http://jasaprogrammer.com) and now stay on Pondokprogrammer, pondokprogrammer is the first free programming school in indonesia. For more detail, you can visit [pondokprogrammer](http://pondokprogrammer.com). 
+Hasan Basri as known as creatorb, CEO of [jasaprogrammer.com](http://jasaprogrammer.com) and now stay on Pondokprogrammer (pondokprogrammer is the first free programming school in indonesia, more detail, you can visit [pondokprogrammer](http://pondokprogrammer.com)). 
 I'm good muslim, insyallah. Passionate software development, type code in darkroom, dark theme is my screen, hearing mp3 quran Murottal, and sometimes (maybe exactly "since ago..." hahaha ) i'm spend the night for stay up all the night in front of computer. Actually i'm not code maniac, i just have powerfull spirit of opensources project. Still learn heard and wannabe man with incredible computer skill's, My goal's "Be a bigger contributor for islam in software development". For more detail about me you can see in another link, visit detail [creatorb](http://creatorb.github.io/2015/03/16/about-creatorb/).
 
 ###Development
