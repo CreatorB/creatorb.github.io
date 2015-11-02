@@ -1,6 +1,6 @@
 ---
 layout	: post
-title	: "Astra Motor Apps"
+title	: "Astra Motor Company"
 date   	: 2015-11-02 10:15:40
 tags	: portfolio
 description: "Astra Motor, self company app"
