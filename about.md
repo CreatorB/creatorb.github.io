@@ -3,7 +3,7 @@ layout: page
 title: ABOUT
 permalink: /about/
 ---
-<img class="about-pic" src="/img/me.jpg">
+<img class="about-pic" src="/img/me.jpg" style="width:25Opx;height:150px;min-width:240px;min-height:210px">
 Hasan Basri as known as creatorb, CEO of [jasaprogrammer.com](http://jasaprogrammer.com) and now stay on Pondokprogrammer (pondokprogrammer is the first free programming school in indonesia, more detail, you can visit [pondokprogrammer](http://pondokprogrammer.com)). 
 I'm good muslim, insyallah. Passionate software development, type code in darkroom, dark theme is my screen, hearing mp3 quran Murottal, and sometimes (maybe exactly "since ago...") i'm spend my night for stay up in front of computer. Actually i'm not code maniac, i just have powerfull spirit of opensources project. Still learn fast and working hard, wannabe man with incredible computer skill's, My goal's "Be a bigger contributor for islam in software development".
 
