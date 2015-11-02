@@ -7,7 +7,8 @@ description: "mobile-dev repo, actually it's home directory code of some android
 comments: true
 ---
 
-![MobileDev](https://farm9.staticflickr.com/8676/16670307275_511e9b37d6_n.jpg)
+<center>![MobileDev](https://farm9.staticflickr.com/8676/16670307275_511e9b37d6_n.jpg)</center>
+
 
 When you find good places for the next beginners step, maybe here is it. Lets clone and modified, happy coding.
 
