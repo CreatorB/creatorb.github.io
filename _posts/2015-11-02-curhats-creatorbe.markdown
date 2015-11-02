@@ -40,4 +40,4 @@ Download
 
 Site
 
-[www.curhats.com](http://www.curhats.com/){:target="_blank"}
+[www.curhats.com](http://www.curhats.com){:target="_blank"}
