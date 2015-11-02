@@ -11,11 +11,13 @@ comments: true
 
 When you find good places for the next beginners step, maybe here is it. Lets clone and modified, happy coding.
 
-## Currently Apps
+
+### Currently Apps
 
 https://github.com/pondokprogrammer/mobile-dev/tree/master/android
 
-## Usage
+
+### Usage
 
 Download All Repository of MD : 
 <code>$ git clone git@github.com:pondokprogrammer/mobile-dev</code>
@@ -24,11 +26,13 @@ Download Sub Repository of MD : https://github.com/CreatorB/SubRepoDownloader
 
 Android Library : https://github.com/CreatorB/Android-Library/tree/master/ListofLibrary
 
-## On The Wild
+
+### On The Wild
 
 [![Get it on Google Play](https://www.gstatic.com/android/market_images/web/play_logo_x2.png)](https://play.google.com/store/apps/developer?id=jasa+programmer)
 
-## Contributing
+
+### Contributing
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -36,7 +40,8 @@ Android Library : https://github.com/CreatorB/Android-Library/tree/master/Listof
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request ;)
 
-## License
+
+### License
 
 [![OPEN SOURCES](http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png)]
 
