@@ -27,11 +27,13 @@ i hope we can be good friend's, Sometimes somepeople visited this post for check
 * Country 	: Indonesia
 * Email		: creatorb45@gmail.com
 * Repository	: [github/CreatorB](https://github.com/CreatorB){:target="_blank"}
+* Official Blog : [creatorbe.com](http://creatorbe.com)
 
+ 
 ###Contact
 
 * BBM		: 55FCEED6
-* Telegram	: @creatorb
+* Telegram	: @creatorbe
 
 ###Recent Authored
 I like typing and sharing everything about computer tutorial's, but i'm sorry i can't included all link on here, Just only my recent link authored by me.
