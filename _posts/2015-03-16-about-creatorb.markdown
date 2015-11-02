@@ -3,29 +3,29 @@ layout	: post
 title	: "about creatorb"
 date   : 2015-03-16 16:55:00
 tags	: creatorb
-description: "Hi developer and coder, Wherever you are. I want to open less my mask by introducing my self, yes it's real me ;) creatorb was here."
+description: "Hi developer and coder, Wherever you are. Unveil my mask by introducing my self, yes it's real me ;) creatorb was here."
 comments: false
 ---
 
 ###Gretings
 Hi dev and coders, greetings from me and welcome to my small repo's.
-i hope we can be good friend's, Sometimes somepeople visited this post for check more detail's about me, okkay next to the points, because i don't want to waste your times.
+i hope we can connect and building nice relations, Sometimes somepeople visited this post for check more detail's about me, okkay next to the points, i don't want to waste your times. Unveil the mask, it's me. creatorbe was here.
 
 
 ###Detail's Me
 
 * Real Name	: Hasan Basri
-* Code Name	: CreatorB
+* Code Name	: CreatorB [spelling : creatorbe]
 * Gender	: Male
-* Hobby		: Everything's about Computer
-* Dream		: Being a good Moslem and someone useful
+* Hobby		: Everything's about Computer and passionate on software development.
+* Dream		: Wannabe The Great Contributor for islam on software development.
 * Education	: Pondokprogrammer
-* Organization	: Jasaprogrammer
+* Organization	: Jasaprogrammer.com
 * Title		: Developer
 * Hometown	: Situbondo, east java
 * City		: Yogyakarta
 * Country 	: Indonesia
-* Email		: creatorb45@gmail.com
+* Email		: creatorb45@gmail.com / creatorbe@jasaprogrammer.com
 * Repository	: [github/CreatorB](https://github.com/CreatorB){:target="_blank"}
 * Official Blog : [creatorbe.com](http://creatorbe.com){:target="_blank"}
 
@@ -35,11 +35,16 @@ i hope we can be good friend's, Sometimes somepeople visited this post for check
 * BBM		: 55FCEED6
 * Telegram	: @creatorbe
 
+
+###Recent Profiles
+
+* Freelancer.com : [creatorb](https://www.freelancer.no/u/creatorbe.html)
+
 ###Recent Authored
 I like typing and sharing everything about computer tutorial's, but i'm sorry i can't included all link on here, Just only my recent link authored by me.
 
 * Linux		: [Tricktux](http://tricktux.blogspot.com){:target="_blank"}
-* Mobile App's	: [Pondokprogrammer](http://pondokprogrammer.com/blog/author/creatorb){:target="_blank"}
+* Mobile App's	: [Pondokprogrammer](http://pondokprogrammer.com/author/creatorb){:target="_blank"}
 * Programming	: [creatorb-LAB](http://creatorb-lab.blogspot.com){:target="_blank"}
 
 
