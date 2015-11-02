@@ -36,7 +36,7 @@ Jobdesc :
 
 Download
 
-<a href="https://play.google.com/store/apps/details?id=com.itdakwah.ayobelajarislam&hl=en" target="_blank"><img src="https://www.gstatic.com/android/market_images/web/play_one_bar_logo_2x.png" style="width:1OOpx; height:50px"></a>
+<a href="https://play.google.com/store/apps/details?id=com.curhats.curhatsapp" target="_blank"><img src="https://www.gstatic.com/android/market_images/web/play_one_bar_logo_2x.png" style="width:1OOpx; height:50px"></a>
 
 Site
 
