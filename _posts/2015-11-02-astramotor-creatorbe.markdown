@@ -30,5 +30,7 @@ Jobdesc :
 
 ### Screenshot
 
-<img src="http://lh3.googleusercontent.com/F39ZUr4hWsBn7fn-WKHEa8zcyHzLKNrmw1PhJ25wx2-a4h3bx686P93TeDxQUGlhrqM=h900-rw" alt="astra_calculation" style="width:2OOpx;height:300px"> <img src="https://lh3.googleusercontent.com/sd7Jjq9C9Z1Ar9RyHq1ecdddRBnume9lXUOez4qBSgX3uD7h9fh4Enlk9QCOHEVNn9Ho=h900-rw" alt="creatorbe_astra_product_view" style="width:2OOpx;height:300px"> <br/>
+<img src="http://lh3.googleusercontent.com/F39ZUr4hWsBn7fn-WKHEa8zcyHzLKNrmw1PhJ25wx2-a4h3bx686P93TeDxQUGlhrqM=h900-rw" alt="astra_calculation" style="width:2OOpx; height:300px"> <img src="https://lh3.googleusercontent.com/sd7Jjq9C9Z1Ar9RyHq1ecdddRBnume9lXUOez4qBSgX3uD7h9fh4Enlk9QCOHEVNn9Ho=h900-rw" alt="creatorbe_astra_product_view" style="width:2OOpx; height:300px">
+<br/>
+<br/>
 <img src="https://lh3.googleusercontent.com/UBvuy9KyvhSkt9RUoonTUbP4WOnAfPGfjd1PfvboQWZuRoglPJUzyNCKohN5wNP-Aq1v=h900-rw" style="width:3OOpx;height:200px"> <img src="https://lh3.googleusercontent.com/bwKVGGNzhQLHn_ON3RNtzgn81K3Tha3mEIED-riwOM70jHAf3HoDCVcolVZML9yuMBA=h900-rw" style="width:3OOpx;height:200px">
