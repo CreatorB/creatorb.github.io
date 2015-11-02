@@ -9,7 +9,7 @@ comments: true
 
 ### Introduction MIT
 
-Information Society Technology (MIT) is a community of people who care about and actively disseminate the use of Information and Communication Technology (ICT) is positive and productive. See more [mit.or.id](http://mit.or.id)
+Information Society Technology (MIT) is a community of people who care about and actively disseminate the use of Information and Communication Technology (ICT) is positive and productive. See more [mit.or.id](http://mit.or.id){:target="_blank"}
 
 
 ### Radio MIT
