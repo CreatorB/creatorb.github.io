@@ -19,8 +19,8 @@ From here, i hope we can easy to connect and lets building a nice relations, Som
 * Gender	: Male
 * Hobby		: Everything's about Computer and passionate on software development.
 * Dream		: Wannabe The Great Contributor for islam on software development.
-* Education	: Pondokprogrammer(https://pondokprogrammer.com){:target="_blank"}
-* Organization	: Jasaprogrammer.com(https://jasaprogrammer.com){:target="_blank"}
+* Education	: [Pondokprogrammer](https://pondokprogrammer.com){:target="_blank"}
+* Organization	: [Jasaprogrammer.com](https://jasaprogrammer.com){:target="_blank"}
 * Title		: Developer
 * Hometown	: Situbondo, east java
 * City		: Yogyakarta
