@@ -3,8 +3,8 @@ layout	: post
 title	: "Quick Sh*t !!!"
 date   	: 2015-03-30 07:24:00
 tags	: linux
-description: "The easy ways for get cheat sheet quickly. Let's break everything forgetfulness by write it"
-comments: true
+description: "The easy ways for get cheat sheet quickly. Let's break everything forgetfulness by write it."
+comments: false
 ---
 
 Hi there, Sure i know this is still early to be said completed cheat sheet so sorry if there are missed something, because you can improve to make it better. Visit our [repository](https://github.com/CreatorB/creatorb.github.io) if you want to contributing.

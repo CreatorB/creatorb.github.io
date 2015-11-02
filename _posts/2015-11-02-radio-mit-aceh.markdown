@@ -3,8 +3,8 @@ layout	: post
 title	: "Radio MIT ACEH"
 date   	: 2015-11-02 09:33:40
 tags	: portfolio
-description: "Radio MIT, gives you easy access to stream MIT radio channel"
-comments: true
+description: "Radio MIT, gives you easy access to stream MIT radio channel."
+comments: false
 ---
 
 ### Introduction MIT

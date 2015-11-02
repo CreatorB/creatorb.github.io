@@ -3,8 +3,8 @@ layout	: post
 title	: "Mobile-dev Repo"
 date   	: 2015-11-02 08:38:40
 tags	: portfolio
-description: "mobile-dev repo, actually it's home directory code of some android developer tutorials on pondokprogrammer.com"
-comments: true
+description: "mobile-dev repo, actually it's home directory code of some android developer tutorials on pondokprogrammer.com ."
+comments: false
 ---
 
 When you find good places for the next beginners step, maybe here is it. Lets clone and modified, happy coding.
