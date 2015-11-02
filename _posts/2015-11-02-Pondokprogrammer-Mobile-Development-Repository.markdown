@@ -12,7 +12,7 @@ When you find good places for the next beginners step, maybe here is it. Lets cl
 
 ### Currently Apps
 
-Checkout [Pondokprogrammer mobile-dev Repo](https://github.com/pondokprogrammer/mobile-dev/tree/master/android){:target="_blank"}
+Lets checkout [Pondokprogrammer mobile-dev Repo](https://github.com/pondokprogrammer/mobile-dev/tree/master/android){:target="_blank"}
 
 
 ### Usage
