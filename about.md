@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hasan Basri as known as creatorb, CTO of [jasaprogrammer.com](http://jasaprogrammer.com) stay in Pondokprogrammer (pondokprogrammer is the first free programming school in indonesia, more detail, you can visit [pondokprogrammer](http://pondokprogrammer.com)). 
-I'm good muslim, insyallah. Passionate software development, dvorak my keyboard, emacs my text editor, slackware my os, dark theme my screen and murottal quran my playlist. Have powerfull spirit of opensources project and still learn fast-working hard to be a man with incredible computer skill's.
+I'm good muslim, insyallah. Passionate software development, dvorak my keyboard, emacs my text editor, slackware my os, dark theme my screen and murottal quran my playlist. Have powerfull spirit of opensources project, still learn fast and working hard to be a man with incredible computer skill's.
 
 My goal's in software development, "Be a bigger contributor for ISLAM".
 
