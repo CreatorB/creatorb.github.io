@@ -7,12 +7,14 @@ description: "Hi developer and coder, Wherever you are. Unveil my mask by introd
 comments: false
 ---
 
-###Gretings
-Hi dev and coders, greetings from me and welcome to my small repo's.
-From here, i hope we can easy to connect and lets building a nice relations, Sometimes somepeople visited this post for check more detail's about me, okkay next to the points, i don't want to waste your times. Unveil the mask, it's me. creatorbe was here.
+*sorry this blog's will be slow update if you big hurry to get in touch with me you can follow me on [creatorbe links](https://creatorbe.github.io)
+
+### Gretings
+
+Hi folks, welcome in my small repo's.
 
 
-###Detail's Me
+### Detail's Me
 
 * Real Name	: Hasan Basri
 * Code Name	: CreatorB [spelling : creatorbe]
@@ -27,20 +29,20 @@ From here, i hope we can easy to connect and lets building a nice relations, Som
 * Country 	: Indonesia
 * Email		: creatorb45@gmail.com / creatorbe@jasaprogrammer.com
 * Repository	: [github/CreatorB](https://github.com/CreatorB){:target="_blank"}
-* Official Blog : [creatorbe.com](http://creatorbe.com){:target="_blank"}
+* Official Blog : [creatorbe.github.io](http://creatorbe.github.io){:target="_blank"}
 
  
-###Contact
+### Contact
 
-* BBM		: 55FCEED6
+* BBM		: 5F5353B6 
 * Telegram	: @creatorbe
 
 
-###Recent Profiles
+### Recent Profiles
 
 * Freelancer.com : [creatorb](https://www.freelancer.com/u/creatorbe.html){:target="_blank"}
 
-###Recent Authored
+### Recent Authored
 I like typing and sharing everything about computer tutorial's, but i'm sorry i can't included all link on here, Just only my recent link authored by me.
 
 * Linux		: [Tricktux](http://tricktux.blogspot.com){:target="_blank"}
@@ -48,31 +50,31 @@ I like typing and sharing everything about computer tutorial's, but i'm sorry i 
 * Programming	: [creatorb-LAB](http://creatorb-lab.blogspot.com){:target="_blank"}
 
 
-###Recent Book's
+### Recent Book's
 
 * Smashwords	: [Creatorb Programmer Writer](https://www.smashwords.com/profile/view/creatorb){:target="_blank"}
 * Slideshare	: [creatorb ebooks](http://www.slideshare.net/creatorb){:target="_blank"}
 * Scribd	: [creatorb ebooks](http://www.scribd.com/creatorb){:target="_blank"}
 
 
-###Recent Web's
+### Recent Web's
 * Freebsd Profile	: [creatorb.freebsd.md](http://creatorb.freebsd.md){:target="_blank"}
 * Jasaprogrammer Site's : [creatorb jasaprogrammer](http://creatorb.jasaprogrammer.com){:target="_blank"}
 * AboutMe		: [Short Me](http://about.me/creatorb){:target="_blank"}
 
 
-###Recent Social's
+### Recent Social's
 * Twitter	: [@creatorbe](http://twitter.com/creatorbe){:target="_blank"}
 * Facebook	: [Creatorb](http://facebook.com/creatorbe){:target="_blank"}
 * gplus		: [Creatorb Doodler](https://plus.google.com/118116077271759320582){:target="_blank"}
 
-###Recent Archive's
+### Recent Archive's
 * Pinterest	: [creatorb](https://www.pinterest.com/creatorb/){:target="_blank"}
 * Youtube	: [Creatorb](https://www.youtube.com/channel/UCbyEh3nQ0H_7-P5ukcZyUvg){:target="_blank"}
 
-###Recent Gist's
+### Recent Gist's
 <script language="JavaScript" src="http://feed2js.org//feed2js.php?src=http%3A%2F%2Fgistrss.appspot.com%2Ffeed%2Fcreatorb&chan=y&desc=1&targ=y&utf=y"  charset="UTF-8" type="text/javascript"></script>
 
-###Recent More
+### Recent More
 * Google	: [Search Me on google](https://www.google.com/search?q=creatorb){:target="_blank"}
 
