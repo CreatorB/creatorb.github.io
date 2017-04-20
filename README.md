@@ -2,7 +2,7 @@ Creatorb's Portfolio Page
 ---
 ## About
 [creatorb.github.io](http://creatorb.github.io)
-This is one of GitHub Pages, i used it just for put some sample of my development projects. Imma not use it for blogging, but if you wanna get in touch with me you can follow me on [creatorbe links](https://creatorbe.github.io) theres place where i mostly spend my time blogging, thanks!.
+This is an anotherGitHub Pages, i just used for documentation a part of my projects. I'm not use it for blogging, but if you wanna get in touch with me you can follow me on [creatorbe links](https://creatorbe.github.io) theres place where i mostly spend my blogging time, thanks!.
 
 Let's share, you can fork my blog's code if you wish or contribute to it to make it better.
 
