@@ -17,7 +17,7 @@ Android Developer
 
 ### Screenshot
 
-![screenshot home apps](https://raw.githubusercontent.com/CreatorB/res/master/img/superklin/superklin-laundry-home-footer.jpeg)
+![screenshot home apps](https://github.com/CreatorB/res/master/img/superklin/superklin-laundry-home-footer.jpeg)
 
 ![screenshot contens](https://raw.githubusercontent.com/CreatorB/res/master/img/superklin/superklin-laundry-layanan.jpeg)
 
