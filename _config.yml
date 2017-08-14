@@ -1,21 +1,37 @@
 # Site settings
-title: Hasan Basri
-subtitle: "creatorbe - Indonesian Programmer"
+title: "Hasan Basri"
+title-font-size: '4em' # a provision to adjust the size of your title. If it is too long then do resize to a smaller value. By default it will be 4em.
+
 email: creatorb45@gmail.com
-description: "creatorb's portfolio page - a place where i'm push some of my development projects"
-baseurl: ""
-url: ""
-twitter_username: "creatorbe"
-github_username:  "CreatorB"
+description: > # this means to ignore newlines until "baseurl:"
+  Muslim by Choice / Programmer by Day
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+permalink: :title/
 
 # Build settings
 markdown: kramdown
-permalink: pretty
-
-#paginator
+highlight: rouge
 paginate: 5
-paginate_path: "/page:num/"
+paginate_path: /page:num/
 
-# Sass
+
+# Tracker
+analytics: 
+
+# Comments
+disqus-shortname: 
+
+# Contact form
+# Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
+api-token:   
+
+#CSS
 sass:
-    style: :compressed
+  style: compressed
+
+
+include: [_pages]
+
+gems: [jekyll-paginate, jekyll-seo-tag]

@@ -1,12 +1,6 @@
 /**
  * Reset some basic elements
  */
-
- * {
- overflow-x: hidden;
- }
-
-
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -20,80 +14,20 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font-family: "Open Sans", sans-serif;
-    font-weight: 300;
+    font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
     color: $text-color;
-    background-color: $background-color;
-}
-s
-
-::selection {
-    background-color: #e7efe7;
+    text-rendering: optimizeLegibility;
+       @include media-query($on-palm) {
+        font-size: 1em;
     }
-
-   
-
-    @font-face {
-
-  font-family: 'FontAwesome';
-  src: url('/css/fonts/fontawesome-webfont.ttf?v=4.0.3');
-
 }
 
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 300;
-  src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v10/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff) format('woff');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Open Sans'), local('OpenSans'), url(http://fonts.gstatic.com/s/opensans/v10/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 600;
-  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(http://fonts.gstatic.com/s/opensans/v10/MTP_ySUJH_bn48VBG8sNSnhCUOGz7vYGh680lGh-uXM.woff) format('woff');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff) format('woff');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: italic;
-  font-weight: 300;
-  src: local('Open Sans Light Italic'), local('OpenSansLight-Italic'), url(http://fonts.gstatic.com/s/opensans/v10/PRmiXeptR36kaC0GEAetxh_xHqYgAV9Bl_ZQbYUxnQU.woff) format('woff');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(http://fonts.gstatic.com/s/opensans/v10/xjAJXh38I15wypJXxuGMBobN6UDyHWBl620a-IRfuBk.woff) format('woff');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: italic;
-  font-weight: 600;
-  src: local('Open Sans Semibold Italic'), local('OpenSans-SemiboldItalic'), url(http://fonts.gstatic.com/s/opensans/v10/PRmiXeptR36kaC0GEAetxn5HxGBcBvicCpTp6spHfNo.woff) format('woff');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(http://fonts.gstatic.com/s/opensans/v10/PRmiXeptR36kaC0GEAetxjqR_3kx9_hJXbbyU8S6IN0.woff) format('woff');
-}
 
 
 /**
- * Set `margin-bottom` to maintain vertycal rhythm
+ * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
@@ -110,6 +44,7 @@ ul, ol, dl, figure,
 img {
     max-width: 100%;
     vertical-align: middle;
+    border-radius: 5px;
 }
 
 
@@ -146,9 +81,49 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+h1{
+    font-size: 2.5em;
+    @include media-query($on-laptop) {
+        font-size: 2em;
+    }
 }
+h2{
+    font-size: 1.6em;
+    @include media-query($on-laptop) {
+        font-size: 1.2em;
+    }
+}
+
+h3{
+    font-size: 1.2em;
+    @include media-query($on-laptop) {
+        font-size: 0.9em;
+    }
+}
+
+h4 {
+        font-size: 1em;
+    @include media-query($on-laptop) {
+        font-size: 0.8em;
+    }
+}
+
+h5{
+        font-size: 0.9em;
+    @include media-query($on-laptop) {
+        font-size: 0.7em;
+    }
+    
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: $base-font-weight;
+    font-family: 'Alfa Slab One', cursive, sans-serif;
+    
+  
+}
+
 
 
 
@@ -159,15 +134,8 @@ a {
     color: $brand-color;
     text-decoration: none;
 
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
-
-    &:hover:not(.site-title) {
-
-        color: $text-color;
-        color: tomato;
-        text-decoration: underline;
+   &:hover {
+        color: $comp-color;
     }
 }
 
@@ -177,12 +145,13 @@ a {
  * Blockquotes
  */
 blockquote {
+    font-family: serif;
     color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    border: 1px solid $grey-color-light;
+    border-left: 4px solid $brand-color;
     padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
     font-style: italic;
+    margin-left: 1em;
 
     > :last-child {
         margin-bottom: 0;
@@ -195,6 +164,16 @@ blockquote {
  * Code formatting
  */
 
+.highlighter-rouge {
+    font-family: inherit;
+}
+
+pre,
+code {
+    border-radius: 3px;
+    border: 1px solid $brand-color;
+    text-shadow: 0 0 0.1px;
+}
 
 code {
     padding: 1px 5px;
@@ -202,7 +181,8 @@ code {
 
 pre {
     padding: 8px 12px;
-    overflow-x: scroll;
+    overflow-x: auto;
+    font-size: 0.8em;
 
     > code {
         border: 0;
@@ -217,7 +197,8 @@ pre {
  * Wrapper
  */
 .wrapper {
-    width: 100%;
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -225,8 +206,8 @@ pre {
     @extend %clearfix;
 
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(800px - (#{$spacing-unit}));
-        max-width:         calc(800px - (#{$spacing-unit}));
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }
@@ -247,20 +228,3 @@ pre {
 }
 
 
-
-/**
- * Icons
- */
-.icon {
-
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
-    }
-}
