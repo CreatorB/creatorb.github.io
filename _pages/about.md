@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! there, i'm Hasan Basri, an android developer with 5+ year experience.
+Hi! there, i'm Hasan Basri with 5+ year experience.
 
 This is my portfolio site, just a place where i keep my recent (public) projects.  
 
@@ -14,5 +14,5 @@ This portfolio site started from Vyaasa based on Jekyll, created for a no-distra
 <a class="github-button" href="https://github.com/creatorb/creatorb.github.io/fork" data-icon="octicon-repo-forked" aria-label="Fork creatorb/creatorb.github.io on GitHub">Fork</a>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjY3ODU3NjJdfQ==
+eyJoaXN0b3J5IjpbLTU0NTE2NjY1MiwtMTEyNjc4NTc2Ml19
 -->
