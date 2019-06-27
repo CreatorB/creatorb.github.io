@@ -8,7 +8,7 @@ Hi! there, i'm Hasan Basri having more than XXX years of experience as a Android
 
 - Android development stack with ability to adapt and thrive with new technologies and environments (Content Providers, Services, Location and Sensors, AdMob). 
 - Collaborate with cross-functional teams to define, design, and ship new features.
-- Work with outside data sources and APIs (Material Design, Volley/Retrofit/FastAndroidNetworking)
+- Work with outside data sources and APIs (Material Design, Volley/Retrofit/FastAndroidNetworking).
 - Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
 - Work on bug fixing and improving application performance.
 
@@ -22,6 +22,6 @@ This is my portfolio site, just a place where i keep my recent (public) projects
 <a class="github-button" href="https://github.com/creatorb/creatorb.github.io/fork" data-icon="octicon-repo-forked" aria-label="Fork creatorb/creatorb.github.io on GitHub">Fork</a>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjI5MzQyMSwxMDQzMDcxNzc3LC0xMT
-I2Nzg1NzYyXX0=
+eyJoaXN0b3J5IjpbLTE2NTE5OTA3MzksMTA0MzA3MTc3NywtMT
+EyNjc4NTc2Ml19
 -->
