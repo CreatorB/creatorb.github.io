@@ -8,6 +8,7 @@ Hi! there, i'm Hasan Basri having more than XXX years of experience as a Android
 
 If you require any of above mentioned work then do let me know and I will shortly share my plan regarding that work. Thanks.
 
+**Contacts**
 
  
 **Copyright Web**
@@ -15,6 +16,6 @@ This is my portfolio site, just a place where i keep my recent (public) projects
 <a class="github-button" href="https://github.com/creatorb/creatorb.github.io/fork" data-icon="octicon-repo-forked" aria-label="Fork creatorb/creatorb.github.io on GitHub">Fork</a>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTc1NDA0NCwxMDQzMDcxNzc3LC0xMT
-I2Nzg1NzYyXX0=
+eyJoaXN0b3J5IjpbLTIwMjUzMzg0NzMsMTA0MzA3MTc3NywtMT
+EyNjc4NTc2Ml19
 -->
