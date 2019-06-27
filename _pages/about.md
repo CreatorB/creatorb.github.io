@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! there, i'm Hasan Basri having more than XXX years of experience as a Android Developer. I started in 2013 with Eclipse ADT and coded simple apps, forced to move to Android Studio when Google stopped it's support. My major strength lies in android development stack with ability to adapt and thrive with new technologies and environments (Material Design, Retrofit/FastAndroidNetworking, Content Providers, Services, Location and Sensors, AdMob).
+Hi! there, i'm Hasan Basri having more than XXX years of experience as a Android Developer. I started in 2013 with Eclipse ADT and coded simple apps, forced to move to Android Studio when Google stopped it's support. My major strength lies in android development stack with ability to adapt and thrive with new technologies and environments (Material Design, Retrofit/FastAndroidNetworking, Content Providers, Services, Location and Sensors, AdMob). Collaborate with cross-functional teams to define, design, and ship new features
 
 If you require any of above mentioned work then do let me know and I will shortly share my plan regarding that work. Thanks.
 
@@ -16,6 +16,6 @@ This is my portfolio site, just a place where i keep my recent (public) projects
 <a class="github-button" href="https://github.com/creatorb/creatorb.github.io/fork" data-icon="octicon-repo-forked" aria-label="Fork creatorb/creatorb.github.io on GitHub">Fork</a>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjUzMzg0NzMsMTA0MzA3MTc3NywtMT
-EyNjc4NTc2Ml19
+eyJoaXN0b3J5IjpbLTUxODMwNDY0OSwxMDQzMDcxNzc3LC0xMT
+I2Nzg1NzYyXX0=
 -->
